@@ -1,6 +1,6 @@
 # Cloud Computing & Software Development
 
-Source code of an application developed during a cloud computing &amp software development course
+Source code of an application developed during a cloud computing & software development course
 
 this application is [insert text here later cuz i can't be bothered rn]
 

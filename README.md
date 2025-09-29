@@ -1,1 +1,19 @@
-# cloud-computing-and-software-development-classes-2025
+# Cloud Computing & Software Development
+
+Source code of an application developed during a cloud computing &amp software development course
+
+this application is [insert text here later cuz i can't be bothered rn]
+
+## Deployment
+
+Example deployment script
+```bash
+#!/bin/bash
+
+cd /tmp
+git clone "https://github.com/pchupilko/cloud-computing-and-software-development-classes-2025"
+
+cd cloud-computing-and-software-development-classes-2025
+rm -rf /var/www/html/*
+mv ./src/* /var/www/html
+```
